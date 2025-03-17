@@ -9,11 +9,9 @@ package org.example;
 
 class Main {
     public static void main(String[] args) {
-        // `\` <= 백스페이스 좌측 키
-        System.out.println("안녕하세요.\n안녕하세요.\n안녕하세요.\n안녕하세요.\n안녕하세요.\n안녕하세요.\n안녕하세요.\n안녕하세요.\n안녕하세요.\n안녕하세요.\n");
-        System.out.println(123);
 
-        System.out.printf("%d", 123);
+        System.out.println("git setting1");
+
     }
 }
 
